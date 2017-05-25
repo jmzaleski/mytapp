@@ -13,7 +13,7 @@ directory, and run
 docker-compose up
 ```
 
-Visit http://localhost:3000 to see the Rails welcome page!
+In anoher tab, visit http://localhost:3000 to see the Rails welcome page!
 
 On the technical side, `docker-compose up` launched two containers: `rails-app`
 and `webpack-dev-server`. The former runs the Rails app, while the latter
